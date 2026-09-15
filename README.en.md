@@ -1,5 +1,7 @@
 # dsh-comfyui
 
+**dank0296 fork** of [fandc520/dsh-comfyui](https://github.com/fandc520/dsh-comfyui) v0.5.1. Full **UI panel + agent tools** kept. Spark/LTX notes: [SPARK.md](SPARK.md).
+
 **English** | [中文](README.md)
 
 <p align="center">
